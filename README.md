@@ -4,7 +4,7 @@
 ### Purpose
 ###   The reason for this project was to look at data from other kick starters to help Louise whose play Fever came to close see how different campaigns did in their own kick starters.  Superficially we homed in the data that was concerned with the field of theatre. 
 ### Analysis and Challenges
-###   The amount of data that was collected was vast and this provided an initial challenge.  The size of the data set made maneuvering the data around difficult.  In the case of smaller data sets it is possibly to manipulate the sheet manually and to see how everything works with each other. In this case we had to let Excel take and use this power to the make the data into something that was palatable.  
+###     The amount of data that was collected was vast and this provided an initial challenge.  The size of the data set made maneuvering the data around difficult.  In the case of smaller data sets it is possibly to manipulate the sheet manually and to see how everything works with each other. In this case we had to let Excel take and use this power to the make the data into something that was palatable.  
 ### Analysis of Outcomes Based on Launch Date
 ###   The first objective that we were concerned about was the outcomes of the various kick starters with relation to the launch date.  Specifically, we looked at kick starters that were theatre based.  The launch dates were categorized by Months, and we only looked at successful, failed, and canceled kick starters. 
 ### Analysis of Outcomes Based on Goals
