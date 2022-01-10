@@ -1,15 +1,15 @@
 # Kickstarter-Analysis
 ## Over of the Project
-##    Performing analysis on Kickstarter data to uncover trends was big overview of completing this project
-### Purpose
+###    Performing analysis on Kickstarter data to uncover trends was big overview of completing this project
+## Purpose
 ###   The reason for this project was to look at data from other kick starters to help Louise whose play Fever came to close see how different campaigns did in their own kick starters.  Superficially we homed in the data that was concerned with the field of theatre. 
-### Analysis and Challenges
+## Analysis and Challenges
 ###     The amount of data that was collected was vast and this provided an initial challenge.  The size of the data set made maneuvering the data around difficult.  In the case of smaller data sets it is possibly to manipulate the sheet manually and to see how everything works with each other. In this case we had to let Excel take and use this power to the make the data into something that was palatable.  
-### Analysis of Outcomes Based on Launch Date
+## Analysis of Outcomes Based on Launch Date
 ###   The first objective that we were concerned about was the outcomes of the various kick starters with relation to the launch date.  Specifically, we looked at kick starters that were theatre based.  The launch dates were categorized by Months, and we only looked at successful, failed, and canceled kick starters. 
-### Analysis of Outcomes Based on Goals
+## Analysis of Outcomes Based on Goals
 ###   The second objective was to look at how the kick starters fared in the relation to what their stated goal was.  By looking at the data it showed that the most successful range for a goal was less than 1000.  The reason that I liked this dataset more the other one was that is calculated percentages of the outcomes based on total amount for each range.  
-### Challanges and Difficulties Encountered
+## Challanges and Difficulties Encountered
 ###   One of the biggest challenges that I encountered was due to the size and navigating through the data.  Especially with the outcomes based on goals deliverable making sure that I was taking data from the right place and manipulating in the right way proved difficult.  When using the Countifs function I kept having trouble making sure that are the parameters to have the correct data be displayed were met. I also was met with difficulty regarding trying to make the dataset smaller.  Since we were only concerned with data from plays, that was the only category that we needed to take the other needed data from, and I missed this doing the second deliverable the first time.  Once I figured out that only data that was concerned with plays was wanted, the rest of the sheet went smoothly.
 ## Results
 -   Based on a quick first initial look at the Theatre outcomes graph it shows that May had the most launched kick starters, May also had the most launched successful kick starters but weirdly enough it didn’t have the most launched failed kick starters, that belongs to October.  In general, according to the data the summer months had the most successfully launched kick starters. One limitation of this data set is that it shows the gross numbers regarding successful, failed, and canceled kick starters, but doesn't show them as percentage of the total kick starters for that month. For example, August had 72 out of 123 for a ~67% percent success rate while November had 54 out of 88 for a success rate of ~61%. 
